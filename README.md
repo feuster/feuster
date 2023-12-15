@@ -22,5 +22,9 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/MSYS2-%23A42E2B?style=flat&logo=GNU&logoColor=%23FFFFFF)](https://www.msys2.org/)
 [![Static Badge](https://img.shields.io/badge/Cygwin-%23A42E2B?style=flat&logo=GNU&logoColor=%23FFFFFF)](https://www.cygwin.com/)
 
-
-
+## Additional Resources
+[![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%237E4DD2?logo=affinityphoto&logoColor=%23FFFFFF)](https://affinity.serif.com)
+[![Static Badge](https://img.shields.io/badge/GNU%20Image%20Manipulation%20Program%20(GIMP)-%235C5543?logo=gimp)](https://www.gimp.org/)
+[![Static Badge](https://img.shields.io/badge/FileZilla-%23BF0000?logo=filezilla)](https://filezilla-project.org/)
+[![Static Badge](https://img.shields.io/badge/NSIS-%2301B0F0?logo=nsis&logoColor=%23FFFFFF)](https://nsis.sourceforge.io/Main_Page)
+[![Static Badge](https://img.shields.io/badge/Wikipedia-%23000000?logo=wikipedia)](https://en.wikipedia.org/wiki/Main_Page)
