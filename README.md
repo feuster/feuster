@@ -11,8 +11,7 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=%23FFFFFF)](https://www.w3.org/TR/?filter-tr-name=html)
 
 ## Tools
-[![Static Badge](https://img.shields.io/badge/Ranorex%20Studio-%23e10714?logo=.NET)
-](https://www.ranorex.com/)
+[![Static Badge](https://img.shields.io/badge/Ranorex%20Studio-%23e10714?logo=.NET)](https://www.ranorex.com/)
 [![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat&logo=Visual%20Studio&logoColor=FFFFFF)](https://visualstudio.microsoft.com)
 [![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=Visual%20Studio%20Code)](https://code.visualstudio.com/)
 [![Static Badge](https://img.shields.io/badge/Lazarus%20IDE-000000?style=flat&logo=lazarus)](https://www.lazarus-ide.org/)
