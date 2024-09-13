@@ -20,6 +20,9 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/ffmpeg-007808?style=flat&logo=ffmpeg)](https://ffmpeg.org/)
 [![Static Badge](https://img.shields.io/badge/MSYS2-%23A42E2B?style=flat&logo=GNU&logoColor=%23FFFFFF)](https://www.msys2.org/)
 [![Static Badge](https://img.shields.io/badge/Cygwin-%23A42E2B?style=flat&logo=GNU&logoColor=%23FFFFFF)](https://www.cygwin.com/)
+[![Static Badge](https://img.shields.io/badge/TestRail-%23000000?style=flat&logo=testrail&logoColor=%2365C179)](https://www.testrail.com/)
+[![Static Badge](https://img.shields.io/badge/Jira-%23FFFFFF?style=flat&logo=Jira&logoColor=%230052CC)](https://www.atlassian.com/de/software/jira)
+[![Static Badge](https://img.shields.io/badge/Mantis-%23008000?style=flat&logo=html5&logoColor=%23000000)](https://mantisbt.org)
 
 ## Additional Resources
 [![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%237E4DD2?logo=affinityphoto&logoColor=%23FFFFFF)](https://affinity.serif.com)
@@ -27,3 +30,6 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/FileZilla-%23BF0000?logo=filezilla)](https://filezilla-project.org/)
 [![Static Badge](https://img.shields.io/badge/NSIS-%2301B0F0?logo=nsis&logoColor=%23FFFFFF)](https://nsis.sourceforge.io/Main_Page)
 [![Static Badge](https://img.shields.io/badge/Wikipedia-%23000000?logo=wikipedia)](https://en.wikipedia.org/wiki/Main_Page)
+
+## Tryouts (tried, but not really working with)
+[![Static Badge](https://img.shields.io/badge/ACCELQ-%23000000?logo=html5&logoColor=%23E34F26)](https://www.accelq.com)
