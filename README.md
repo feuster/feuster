@@ -23,6 +23,8 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/TestRail-%23000000?style=flat&logo=testrail&logoColor=%2365C179)](https://www.testrail.com/)
 [![Static Badge](https://img.shields.io/badge/Jira-%23FFFFFF?style=flat&logo=Jira&logoColor=%230052CC)](https://www.atlassian.com/de/software/jira)
 [![Static Badge](https://img.shields.io/badge/Mantis-%23008000?style=flat&logo=html5&logoColor=%23000000)](https://mantisbt.org)
+[![Static Badge](https://img.shields.io/badge/FreeCAD-%231E597B?style=flat&logo=FreeCad&logoColor=%23FFFFFF)](https://www.freecad.org/)
+[![Static Badge](https://img.shields.io/badge/Bambu%20Studio-%2300AE42?style=flat&logo=BambuLab&logoColor=%23FFFFFF)](https://[www.freecad.org](https://bambulab.com/en/download/studio)/)
 
 ## Additional Resources
 [![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%237E4DD2?logo=affinityphoto&logoColor=%23FFFFFF)](https://affinity.serif.com)
