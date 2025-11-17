@@ -25,6 +25,7 @@ Here is a list of the more relevant ones.
 [![Static Badge](https://img.shields.io/badge/Mantis-%23008000?style=flat&logo=html5&logoColor=%23000000)](https://mantisbt.org)
 [![Static Badge](https://img.shields.io/badge/FreeCAD-%231E597B?style=flat&logo=FreeCad&logoColor=%23FFFFFF)](https://www.freecad.org/)
 [![Static Badge](https://img.shields.io/badge/Bambu%20Studio-%2300AE42?style=flat&logo=BambuLab&logoColor=%23FFFFFF)](https://bambulab.com/en/download/studio)
+[![Static Badge](https://img.shields.io/badge/draw%2Eio-%23F08705?style=flat&logo=diagramsdotnet&logoColor=%23FFFFFF)](https://draw.io)
 
 ## Additional Resources
 [![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%237E4DD2?logo=affinityphoto&logoColor=%23FFFFFF)](https://affinity.serif.com)
